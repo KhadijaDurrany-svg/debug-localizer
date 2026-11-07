@@ -1,0 +1,19 @@
+{
+  "config": {
+    "label_noise": 0.0,
+    "n_boot": 2000,
+    "n_perm": 10000,
+    "n_programs": 200,
+    "n_tests": 100,
+    "q": 0.95,
+    "seed": 0
+  },
+  "dataset_checksum": "719c1d09a6862accbc65bdb1ea30cea1d1d92e96ff0d79e646a28b10063726db",
+  "generated_utc": "2026-11-06T21:14:33.302787+00:00",
+  "git_sha": "n/a",
+  "numpy": "2.5.4",
+  "platform": "Linux-6.18.44-fc-v242-x86_64-with-glibc2.39",
+  "python": "3.13.18",
+  "tool": "faultrank",
+  "version": "0.1.0"
+}
